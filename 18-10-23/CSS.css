@@ -1,0 +1,26 @@
+h1{
+    color: red;
+    background-color: blue;
+}
+body{
+    color: aqua;
+    background-color: black;
+}
+#tarun{
+    color:purple ;
+}
+h1,h2{
+    background-color: beige;
+}
+*{
+    font-size: larger;
+}
+.rakshan{
+    color: blueviolet;
+    font-size: medium;
+}
+.rakshan{
+    font-size: x-large; 
+    font-weight: 700;
+    
+}
